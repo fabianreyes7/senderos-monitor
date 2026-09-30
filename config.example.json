@@ -1,0 +1,27 @@
+{
+  "sites": {
+    "17": [42, 44],
+    "18": [51, 53],
+    "22": null
+  },
+  "dates": [],
+  "auto_book": false,
+  "ntfy_topic": "",
+  "email": "tu-correo@ejemplo.com",
+  "participants": [
+    {
+      "name": "nombre completo",
+      "gender": "1",
+      "schooling": "5",
+      "documentType": "0",
+      "idnumber": "0000000000",
+      "country": "Colombia",
+      "state": "BOGOTÁ D.C.",
+      "city": "BOGOTA",
+      "phone": "3000000000",
+      "eps": "eps",
+      "emergency": "contacto de emergencia",
+      "purpose": "0"
+    }
+  ]
+}

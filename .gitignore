@@ -1,0 +1,7 @@
+# Datos personales y estado local
+config.json
+booking.json
+state.json
+history.jsonl
+cron.log
+__pycache__/
